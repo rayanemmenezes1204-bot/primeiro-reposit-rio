@@ -1,1 +1,3 @@
-# primeiro-reposit-rio
+# primeiro-repositorio
+
+Eu estou aprendendo github...
